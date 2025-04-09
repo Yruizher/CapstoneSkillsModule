@@ -1,3 +1,3 @@
-This is a file to show that TestBranch1 is merged and working.It also lets me practice merging, committing, and pushing
-(Line 2)
-(Line 3)
+This is a file to show that TestBranch1 is merged and working. (Oops theres a conflict) It also lets me practice merging, 
+committing, and pushing (here too)
+(another change)
